@@ -5,7 +5,7 @@
   "basics": {
     "name": "Alex Mathison",
     "label": "Systems Administrator",
-    "image": "https://avatars0.githubusercontent.com/u/416209?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4",
+    "image": "",
     "summary": "My experience covers working with complex Payment Platform systems and troubleshooting Windows, MacOS and Linux operating systems. Additionally, in my previous positions, I gained extensive knowledge of Microsoft 365, including Active Directory and Intune. I also ascertained a wide set of skills in DevOps concepts such as containerization (Docker), automation platforms such as Ansible/Terraform and Kubernetes. ",
     "website": "https://alexmathison.com",
     "email": "contact@alexmathison.com",
@@ -23,16 +23,16 @@
   },
   "education": [
     {
-      "endDate": "06-2021",
-      "startDate": "03-2021",
+      "endDate": "2021-06-01",
+      "startDate": "2021-03-01",
       "area": "Information Technology",
       "studyType": "Graduate Certificate",
       "institution": "Deakin University"
     },
 
     {
-      "endDate": "12-2019",
-      "startDate": "02-2016",
+      "endDate": "2019-12-01",
+      "startDate": "2016-02-01",
       "area": "Film and Televison",
       "studyType": "Bachelor",
       "institution": "Swinburne University of Technology"
@@ -86,7 +86,7 @@
       "name": "Connective",
       "location": "Melbourne",
       "position": "Systems Administration",
-      "startDate": "2023-12",
+      "startDate": "2023-12-01",
       "highlights": ["Active Directory", "Intune", "Windows Server", "365 Telephony"]
     },
     {
@@ -95,8 +95,8 @@
       "name": "PPRO",
       "location": "Melbourne",
       "position": "DevOps Engineer",
-      "startDate": "2021-12",
-      "endDate": "2023-09",
+      "startDate": "2021-12-01",
+      "endDate": "2023-09-01",
       "highlights": [
         "AzureAD and MS Endpoint Manager administration for an office size of approx. 150 people including management of suppliers and inventory tracking.",
         "PowerShell scripting for application deployments to end users",
