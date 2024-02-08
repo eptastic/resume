@@ -5,7 +5,7 @@
   "basics": {
     "name": "Alex Mathison",
     "label": "Systems Administrator",
-    "image": "",
+    "image": "https://avatars.githubusercontent.com/u/66504265?s=400&u=7ebf26c6e5b411320411a41a0cc1463b6cf31cce&v=4",
     "summary": "My experience covers working with complex Payment Platform systems and troubleshooting Windows, MacOS and Linux operating systems. Additionally, in my previous positions, I gained extensive knowledge of Microsoft 365, including Active Directory and Intune. I also ascertained a wide set of skills in DevOps concepts such as containerization (Docker), automation platforms such as Ansible/Terraform and Kubernetes. ",
     "website": "https://alexmathison.com",
     "email": "contact@alexmathison.com",
@@ -21,6 +21,8 @@
       }
     ]
   },
+
+
   "education": [
     {
       "endDate": "2021-06-01",
@@ -33,11 +35,12 @@
     {
       "endDate": "2019-12-01",
       "startDate": "2016-02-01",
-      "area": "Film and Televison",
+      "area": "Film and Television",
       "studyType": "Bachelor",
       "institution": "Swinburne University of Technology"
     }
   ],
+
   "references": [
     {
       "reference": "Test",
@@ -79,6 +82,8 @@
       "awarder": "Swinburne University of Technology"
     }
   ],
+
+
   "work": [
     {
       "summary": "Summary Here",
@@ -89,6 +94,7 @@
       "startDate": "2023-12-01",
       "highlights": ["Active Directory", "Intune", "Windows Server", "365 Telephony"]
     },
+
     {
       "summary": "Summary Here",
       "website": "https://ppro.com",
@@ -106,22 +112,8 @@
         "High level troubleshooting of complex payment gateway payment systems for all business partners",
         "Technical lead for communicating complex technical specifications and weekly issue status updates to major clients"
       ]
-    },
-    
-   
-  "interests": [
-    {
-      "name": "Custom Keyboards"
-    },
-    {
-      "name": "Homelabs"
-    },
-    {
-      "name": "Film and Televison"
-    },
-    {
-      "name": "Open Source"
     }
+      
   ]
 }
 
