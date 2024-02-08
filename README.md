@@ -1,3 +1,5 @@
+https://registry.jsonresume.org/eptastic
+
 
 The easy way to host your resume is by making a `resume.json` on gist.github.com. 
 
