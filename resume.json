@@ -5,7 +5,7 @@
   "basics": {
     "name": "Alex Mathison",
     "label": "Systems Administrator",
-    "image": "https://avatars.githubusercontent.com/u/66504265?s=400&u=7ebf26c6e5b411320411a41a0cc1463b6cf31cce&v=4",
+    "image": "https://media.licdn.com/dms/image/C5603AQGLFnxu_5-vBw/profile-displayphoto-shrink_800_800/0/1616549886060?e=1712793600&v=beta&t=aWYh-8uxB4VxCvAUPk_kllzTGA651jL42rHhCY3pxQc",
     "summary": "My experience covers working with complex Payment Platform systems and troubleshooting Windows, MacOS and Linux operating systems. Additionally, in my previous positions, I gained extensive knowledge of Microsoft 365, including Active Directory and Intune. I also ascertained a wide set of skills in DevOps concepts such as containerization (Docker), automation platforms such as Ansible/Terraform and Kubernetes. ",
     "website": "https://alexmathison.com",
     "email": "contact@alexmathison.com",
@@ -101,7 +101,7 @@
       "name": "PPRO",
       "location": "Melbourne",
       "position": "DevOps Engineer",
-      "startDate": "2021-12-01",
+      "startDate": "2021-05-01",
       "endDate": "2023-09-01",
       "highlights": [
         "AzureAD and MS Endpoint Manager administration for an office size of approx. 150 people including management of suppliers and inventory tracking.",
